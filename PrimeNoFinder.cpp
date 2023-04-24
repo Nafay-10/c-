@@ -14,10 +14,10 @@ main() {
     }
   }
   if (prime) {
-    cout << num << " is prime number" <<
+    cout << num << " It is prime number" <<
       endl;
   } else {
-    cout << num << " is not prime number";
+    cout << num << " It is not prime number";
   }
 
 }
